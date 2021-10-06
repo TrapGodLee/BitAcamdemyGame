@@ -1,0 +1,312 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "A:/BitProject/project-1-feature-bitgame/tiled_maps/BitGame.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "A:/BitProject/project-1-feature-bitgame/tiled_maps/BitGame.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1672,
+                "y": 300
+            }
+        },
+        "A:/BitProject/project-1-feature-bitgame/tiled_maps/BitGame.tmx#schooltile": {
+            "scaleInDock": 1.5
+        },
+        "Assets/TileSets/floor - Copy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "GameTileDemo.json": {
+            "scale": 2.242,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 197.14540588760036,
+                "y": 198.9295272078501
+            }
+        },
+        "GameTileDemo.json#game": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "Scripts/JSON/GameTileDemo.json": {
+            "scale": 1.5105,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 197.2856669976829,
+                "y": 293.94240317775575
+            }
+        },
+        "Scripts/JSON/GameTileDemo.json#game": {
+            "scaleInDock": 1
+        },
+        "bullshit.tmx": {
+            "scale": 1.281015625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.44886259681647,
+                "y": 320.44886259681647
+            }
+        },
+        "bullshit.tmx#game": {
+            "scaleInDock": 1.5
+        },
+        "game.tmx": {
+            "scale": 1.5247499999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 192.16264961469093,
+                "y": 182.65289391703558
+            }
+        },
+        "game.tmx#game": {
+            "scaleInDock": 1
+        },
+        "game.tmx#schoolTileDemo": {
+            "scaleInDock": 1
+        },
+        "game.tmx#schoolTileDemo2": {
+            "scaleInDock": 1
+        },
+        "game.tmx#schoolTileDemo3": {
+            "scaleInDock": 1
+        },
+        "game.tmx#swag": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapDemo.tmx": {
+            "scale": 1.2674278846153846,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 358.20578473210054,
+                "y": 267.07633949739215
+            }
+        },
+        "school.tmx": {
+            "scale": 1.73375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 192.06921413121847,
+                "y": 200.72098053352562
+            }
+        },
+        "school.tmx#game": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "school.tmx#school": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "schoolPlein.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 261.3333333333333,
+                "y": 521
+            }
+        },
+        "schoolPlein.tmx#floor": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "schoolPlein.tmx#game": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "schoolTileDemo.tmx": {
+            "scale": 1.6909999999999998,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 200.17740981667654,
+                "y": 200.17740981667654
+            }
+        },
+        "schoolTileDemo.tmx#characters": {
+            "scaleInDock": 1
+        },
+        "schoolTileDemo.tmx#pokemonTileseto": {
+            "scaleInDock": 0.33
+        },
+        "schoolTileDemo.tmx#pokemontownTileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "schoolTileDemo.tmx#schoolTileDemo": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "schoolTileDemo.tmx#schoolTileDemo2": {
+            "scaleInDock": 4,
+            "scaleInEditor": 3
+        },
+        "schoolTileDemo.tmx#schoolTileDemo3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "schoolTileDemo.tmx#schoolTileSet": {
+            "scaleInDock": 1
+        },
+        "schoolTileDemo.tmx#test2": {
+            "scaleInDock": 1
+        },
+        "schoolTileDemo.tmx#tileFloor": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "schoolTileDemo.tmx#woodenBench": {
+            "scaleInDock": 1.5
+        },
+        "schooltileDemo.tmx": {
+            "scale": 2.1755,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 188.4624224316249,
+                "y": 199.26453688807172
+            }
+        },
+        "schooltileDemo.tmx#tileFloor": {
+            "scaleInDock": 1
+        },
+        "test.tmx": {
+            "scale": 2.052,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 195.6627680311891,
+                "y": 213.45029239766083
+            }
+        },
+        "test.tmx#game": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "test.tmx#schoolTileDemo3": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "test2.tmx": {
+            "scale": 2.0357142857142856,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 162.8421052631579,
+                "y": 168.73684210526315
+            }
+        },
+        "test2.tmx#test": {
+            "scaleInDock": 3
+        },
+        "tmx/schoolPlein.tmx": {
+            "scale": 0.987109375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 360.6489908982984,
+                "y": 320.6331618519984
+            }
+        },
+        "tmx/schoolPlein.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "tmx/schoolPlein.tmx#game": {
+            "scaleInDock": 1
+        },
+        "tmx/untitled.tmx": {
+            "scale": 1.331484375,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 370.26345127031624,
+                "y": 324.44992078859354
+            }
+        },
+        "tmx/untitled.tmx#game": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 1.364140625,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 261.7032243285035,
+                "y": 319.615142317164
+            }
+        },
+        "untitled.tmx#game": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "untitled.tmx#game2": {
+            "scaleInDock": 1.5
+        },
+        "untitled.tmx#ground": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "untitled.tmx#tileFloor": {
+            "scaleInDock": 1
+        },
+        "untitled2.tmx": {
+            "scale": 2.1755,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 192.13973799126637,
+                "y": 200.18386577798205
+            }
+        },
+        "yard.tmx": {
+            "scale": 1.238392857142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 310.88680605623654,
+                "y": 279.3943763518385
+            }
+        }
+    },
+    "lastUsedTilesetExportFilter": "JSON tileset files (*.json)",
+    "map.fixedSize": true,
+    "map.height": 40,
+    "map.lastUsedExportFilter": "JSON map files (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.orientation": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Scripts/JSON/GameTileDemo.json",
+        "tmx/untitled.tmx",
+        "A:/BitProject/project-1-feature-bitgame/tiled_maps/BitGame.tmx",
+        "tmx/schoolPlein.tmx"
+    ],
+    "project": "",
+    "property.type": "bool",
+    "recentFiles": [
+        "Scripts/JSON/GameTileDemo.json",
+        "tmx/untitled.tmx",
+        "tmx/schoolPlein.tmx",
+        "A:/BitProject/project-1-feature-bitgame/tiled_maps/BitGame.tmx",
+        "untitled.tmx",
+        "schoolPlein.tmx",
+        "bullshit.tmx",
+        "test.tmx",
+        "GameTileDemo.json",
+        "Assets/TileSets/floor - Copy.tsx",
+        "school.tmx",
+        "yard.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
